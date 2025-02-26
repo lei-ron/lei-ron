@@ -37,10 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lei-ron/lei-ron/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
